@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
-    "version": 2,
+    "version": 3,
     "url": "https://raw.githubusercontent.com/nandoanalog/Emperor_eye/refs/heads/main/esp32-fota-http-2.bin"
 }
